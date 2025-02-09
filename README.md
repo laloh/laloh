@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **System Design Problems (From zero to millions users)**
 
-- 🌱 I’m currently learning **Microservices, Distributed services, and Golang**
+- 🌱 I’m currently learning **Microservices, Distributed services, and Azure**
 
 - 👯 I’m looking to collaborate on **Python and Golang Projects**
-
-- 👨‍💻 All of my projects are available at [https://www.lalocarrera.dev/](https://www.lalocarrera.dev/)
-
-- 📝 I regularly write articles on [https://www.lalocarrera.dev/](https://www.lalocarrera.dev/)
 
 - 💬 Ask me about **Backend & Data Engineer Tips!**
 
