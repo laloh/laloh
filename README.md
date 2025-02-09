@@ -2,15 +2,7 @@
 <h3 align="center">A passionate software engineer from Mexico 🌮</h3>
 
 - 🔭 I’m currently working on **System Design Problems (From zero to millions users)**
-
-- 🌱 I’m currently learning **Microservices, Distributed services, and Azure**
-
-- 👯 I’m looking to collaborate on **Python and Golang Projects**
-
-- 💬 Ask me about **Backend & Data Engineer Tips!**
-
 - 📫 How to reach me **eduardocarhue@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/educarrerah/](https://www.linkedin.com/in/educarrerah/)
 
 <h3 align="left">Connect with me:</h3>
